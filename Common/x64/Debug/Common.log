@@ -1,0 +1,13 @@
+﻿  common.cpp
+  hashtable.cpp
+  list.cpp
+  Generating Code...
+C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\Common\list.cpp(229,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\Common\list.cpp(229,10):
+  consider using '%lld' in the format string
+  C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\Common\list.cpp(229,10):
+  consider using '%Id' in the format string
+  C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\Common\list.cpp(229,10):
+  consider using '%I64d' in the format string
+  
+  Common.vcxproj -> C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\x64\Debug\Common.lib

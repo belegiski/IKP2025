@@ -1,0 +1,7 @@
+﻿  pubsubengine.cpp
+  pubsublib.cpp
+  Generating Code...
+C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\PubSubEngine\pubsublib.cpp(295,38): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\PubSubEngine\pubsublib.cpp(368,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\PubSubEngine\pubsublib.cpp(373,30): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+  PubSubEngine.vcxproj -> C:\Users\beleg\OneDrive\Desktop\wetransfer_projekti_2024-12-28_1915\IKPProjekat\Projekat\IKP\IKPProject\x64\Debug\PubSubEngine.exe
